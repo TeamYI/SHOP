@@ -11,7 +11,7 @@
     <div id="page-container">
       <header id="header">
         <h1 id="logo-wrapper">
-          <a href="main" id="logo" title="main page 移動します。">
+          <a href="/shop/main" id="logo" title="main page 移動します。">
             <img src="./img/main-logo.png" alt="" width="210px" height="100px">
           </a>
         </h1>
@@ -83,7 +83,7 @@
                 echo "商品がありません。";
               } ?>
               </ul>
-              <div class="more"><a href="productList">MORE..</a></div>
+              <div class="more"><a href="/shop/categoryList/0">MORE..</a></div>
             </div>
           </div>
         <!-- <div id="main-notice">
